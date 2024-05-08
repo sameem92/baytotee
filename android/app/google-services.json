@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "61535706472",
+    "project_id": "baytotee-39132",
+    "storage_bucket": "baytotee-39132.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61535706472:android:225537e60808e1a26c0add",
+        "android_client_info": {
+          "package_name": "com.handymade.baytotee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61535706472-3bllltja7i5qnbccl1sb0q94gd20dcdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.handymade.baytotee",
+            "certificate_hash": "310932cf80a0e75b7e0bd3181e8259448ecf9f6d"
+          }
+        },
+        {
+          "client_id": "61535706472-hf48neg7biscen7on496jgmna3g1e5pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0cZoQLj_TD_ambUNJMjgkbJana-AtfA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61535706472-hf48neg7biscen7on496jgmna3g1e5pv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "61535706472-t2duf8h0qof7gr06gout55lm93rtg6s2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.handymade.baytotee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
