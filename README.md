@@ -37,13 +37,11 @@ Each family can manage their earnings,Baytotee application, an application for p
 * Geocoding
 * Cloud Firestore  
 * Google Maps API  
-* Postman API
 * REST APIs 
 * Firebase 
 * Geolocation 
-* Messaging 
+* Push Notifications FCM (Firebase Cloud Messaging) 
 * Payment Gateways
-* Push Notifications 
 * promotional offers ,DISCOUNTS & COUPONS
 * EASY LOGIN & Firebase AUTHENTICATION
 * MULTI-LANGUAGES SUPPORT (INCLUDING LTR & RTL)
